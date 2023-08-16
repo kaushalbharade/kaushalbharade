@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaushalbharade)](https://github.com/kaushalbharade/github-profile-trophy)
 ![logo](https://github.com/kaushalbharade/kaushalbharade/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kaushal Arunrao Bharade</h1>
 <h3 align="center">A passionate Software developer from India</h3>
@@ -20,4 +19,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaushalbharade&show_icons=true&locale=en" alt="kaushalbharade" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalbharade&" alt="kaushalbharade" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaushalbharade)](https://github.com/kaushalbharade/github-profile-trophy)
 
