@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Kaushal Arunrao Bharade</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaushalbharade)](https://github.com/kaushalbharade/github-profile-trophy)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalbharade&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalbharade" /> </p>
 
 - 📫 How to reach me **kaushalbharade07@gmail.com**
@@ -19,5 +21,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaushalbharade&show_icons=true&locale=en" alt="kaushalbharade" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalbharade&" alt="kaushalbharade" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaushalbharade)](https://github.com/kaushalbharade/github-profile-trophy)
+
 
