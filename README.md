@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaushal Arunrao Bharade</h1>
 <h3 align="center">An Ambitious Software Engineer </h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/kaushalbharade/kaushalbharade/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png">
+<img align="center" alt="Coding"  src="https://github.com/kaushalbharade/kaushalbharade/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalbharade&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalbharade" /> </p>
 
