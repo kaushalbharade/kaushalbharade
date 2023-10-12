@@ -21,5 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushalbharade&show_icons=true&locale=en" alt="kaushalbharade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalbharade&" alt="kaushalbharade" /></p>
-
+[![@kaushalbharade Holopin board](https://holopin.io/api/user/board?user=kaushalbharade)](https://holopin.io/@kaushalbharade)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalbharade" alt="kaushalbharade" /></a> </p>
