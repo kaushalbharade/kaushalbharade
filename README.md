@@ -22,3 +22,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalbharade&" alt="kaushalbharade" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalbharade" alt="kaushalbharade" /></a> </p>
+### 🔖 Holopins:
+  
+[![An image of @kaushalbharade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaushalbharade)](https://holopin.io/@kaushalbharade)
+<!-- ## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p> -->
